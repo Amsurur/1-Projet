@@ -1,0 +1,190 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@200;300&family=Raleway:ital,wght@0,300;0,400;1,200&family=Roboto:wght@400;500&family=Sintony&family=Source+Sans+3:wght@900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@200;300&family=Raleway:ital,wght@0,300;0,400;1,200&family=Roboto:wght@400;500&family=Sintony&family=Source+Sans+3:wght@900&family=Space+Grotesk:wght@600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@200;300&family=Raleway:ital,wght@0,300;0,400;1,200&family=Roboto:wght@400;500&family=Sintony&family=Source+Sans+3:wght@900&family=Space+Grotesk:wght@600&family=Work+Sans:wght@500;600&display=swap');
+
+*{
+    padding: 0;
+    margin: 0;
+}
+body{
+    background-color: 
+    #272727;
+}
+.nav{
+    display: flex;
+    justify-content: space-between;
+}
+.navbar{
+    width: 95%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10px;
+    font-family: 'Montserrat', sans-serif;
+font-family: 'Raleway', sans-serif;
+font-family: 'Roboto', sans-serif;
+font-family: 'Sintony', sans-serif;
+font-family: 'Source Sans 3', sans-serif;
+}
+.left-nav{
+    width: 35%;
+    display: flex;
+    justify-content: space-between;
+}
+.nav-div-ul{
+    width: 50%;
+        align-self: center;
+
+}
+.nav-ul{
+    display: flex;
+    justify-content: space-between !important;
+    list-style-type: none;
+    font-size: 14px;
+}
+.nav-li{
+    text-decoration: none;
+    color: #FFFF;
+    list-style: none;
+    font-size: 12px;
+    
+}
+.nav-logo{
+    border-left:3px solid gold ;
+    border-top:3px solid gold ;
+    border-bottom: 3px solid gold;
+}
+.nav-logo-h3{
+        font-size: 23px;
+    color: #FFFF;
+    padding: 5px;
+
+}
+.nav-logo-p{
+    font-size: 10px;
+    color: rgb(139, 138, 138);
+}
+.right-nav{
+    display: flex;
+    width: 40%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.right-nav-lang{
+    display: flex;
+    justify-content: space-between;
+}
+.right-nav-lang-en{
+    margin-right: 5px;
+    color: gold;
+    font-size:14px ;
+}
+.right-nav-lang-ru{
+    color: rgb(139, 138, 138);
+    font-size:14px ;
+
+}
+.right-nav-button1{
+    padding: 8px 20px;
+    background-color: gold;
+    font-family: 'Sintony', sans-serif;
+    border: none;
+}
+.right-nav-phone{
+    color: #FFFF;
+}
+.first-con{
+    width: 95%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10px;
+    height: 200vh;
+    
+
+}
+.first{
+    background-image: url(Image/slider1.png);
+    height: 100vh;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+.first-icons{
+    display: flex;
+    flex-direction: column;
+    align-items: end;
+    text-align: center;
+    justify-content: center;
+    padding-bottom: 50px;
+
+}
+.first-icons i{
+    margin-top: 15px;
+    margin-right: 10px;
+}
+.first-main-text{
+    width: 60%;
+    margin-left: auto;
+    margin-right: auto;
+    color: #FFFF;  
+         font-family: 'Montserrat', sans-serif;
+font-family: 'Raleway', sans-serif;
+font-family: 'Roboto', sans-serif;
+font-family: 'Sintony', sans-serif;
+font-family: 'Source Sans 3', sans-serif;
+font-family: 'Space Grotesk', sans-serif;
+
+
+    
+}
+.first-main-text h1{
+    font-size: 50px;
+    letter-spacing: 2px;
+}
+.first-main-text span{
+    color: gold;
+}
+.first-main-text-p1{
+    color: rgb(224, 218, 218);
+    font-size: 15px;
+
+}
+.first-main{
+    width: 50%;
+    border-left:3px solid gold ;
+    border-top:3px solid gold ;
+    border-bottom: 3px solid gold;
+    padding: 20px;
+}
+.first-number-con{
+    
+    margin-right: auto;
+    margin-left: auto;
+   color: #FFFF;
+    background-color: #272727;
+    display: flex;
+justify-content: space-between;  
+  padding: 50px 100px 30px 40px;
+
+}
+.first-buttom{
+    width: 50%;
+    margin-left:auto ;
+    margin-top: 150px;
+    font-family: 'Montserrat', sans-serif;
+font-family: 'Raleway', sans-serif;
+font-family: 'Roboto', sans-serif;
+font-family: 'Sintony', sans-serif;
+font-family: 'Source Sans 3', sans-serif;
+font-family: 'Space Grotesk', sans-serif;
+font-family: 'Work Sans', sans-serif;
+letter-spacing: 1px;
+
+}
+.first-number{
+    width: 30%;
+display: flex;
+justify-content:  space-between;
+}
+.first-number h1{
+    color: gold;
+}
