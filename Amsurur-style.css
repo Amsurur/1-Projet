@@ -1,7 +1,10 @@
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@200;300&family=Raleway:ital,wght@0,300;0,400;1,200&family=Roboto:wght@400;500&family=Sintony&family=Source+Sans+3:wght@900&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@200;300&family=Raleway:ital,wght@0,300;0,400;1,200&family=Roboto:wght@400;500&family=Sintony&family=Source+Sans+3:wght@900&family=Space+Grotesk:wght@600&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@200;300&family=Raleway:ital,wght@0,300;0,400;1,200&family=Roboto:wght@400;500&family=Sintony&family=Source+Sans+3:wght@900&family=Space+Grotesk:wght@600&family=Work+Sans:wght@500;600&display=swap');
+<<<<<<< HEAD
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@200;300&family=Raleway:ital,wght@0,300;0,400;1,200&family=Roboto:wght@400;500&family=Sintony&family=Source+Sans+3:wght@900&family=Space+Grotesk:wght@600&family=Work+Sans:wght@300;500;600&display=swap');
+=======
+>>>>>>> 4c300666d517bc764f977530f208f40cd743c8d1
 
 *{
     padding: 0;
@@ -10,7 +13,10 @@
 body{
     background-color: 
     #272727;
+<<<<<<< HEAD
     height: 100vh;
+=======
+>>>>>>> 4c300666d517bc764f977530f208f40cd743c8d1
 }
 .nav{
     display: flex;
@@ -100,6 +106,10 @@ font-family: 'Source Sans 3', sans-serif;
     margin-left: auto;
     margin-right: auto;
     margin-top: 10px;
+<<<<<<< HEAD
+=======
+    height: 200vh;
+>>>>>>> 4c300666d517bc764f977530f208f40cd743c8d1
     
 
 }
@@ -189,6 +199,7 @@ justify-content:  space-between;
 .first-number h1{
     color: gold;
 }
+<<<<<<< HEAD
 /* second */
 .second-con{
     width: 95%;
@@ -593,3 +604,5 @@ margin: 10px 0px 30px 0px;
     font-size: 14px;
     color: gray;
 }
+=======
+>>>>>>> 4c300666d517bc764f977530f208f40cd743c8d1
