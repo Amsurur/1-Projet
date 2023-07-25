@@ -1,0 +1,291 @@
+.ull{
+    display: flex;
+    list-style: none;
+font-size: 9px;
+justify-content: space-between;
+}
+.ull2{
+    display: flex;
+    list-style: none;
+    font-size: 8px;
+    text-align: center;
+    
+}
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    color: white;
+}
+.navbar h1 {
+    font-size: 16px;
+}
+body{
+    width: 90%;
+    background-color:  #272727;
+    margin: auto;
+}
+.liw{
+    display: flex;
+    
+}
+.book{
+    background-color: #FCD54C;
+    margin-right: 50px;
+    color: #272727;
+}
+
+.zz{
+    margin-right: 40px;
+}
+.divi2{
+   background-image: url(./main.jpg); 
+   
+   width: 100%;
+   height: 270px;
+}
+
+.divi2 h1{
+    color: white;
+}
+.divi2 h2 {
+    color: #FCD54C;
+}
+.txtx{
+    padding-top: 120px;
+    padding-left: px;
+    font-size: 15px;
+    text-align: center;
+}
+.justxt{
+    font-size: 10px;
+    text-align: center;
+    color: white;
+}
+.category{
+    width: 100%;
+    gap: 5px;
+    display: flex;
+    gap: 8px;
+    color: #ffffff;
+    font-size: 7px;
+    text-align: center;
+}
+.category h1 {
+    padding-top: 100px;
+}
+.dd1{
+    background-image: url(./11.png);
+    width: 24%;
+    height: 150px;
+    
+    
+    
+}
+.dd2{
+    background-image: url(./12.png);
+    width: 24%;
+    height: 150px;
+    
+}
+.dd3{
+    background-image: url(./13.png);
+    width: 24%;
+    height: 150px;
+    font-size: 7px;
+    
+    
+}
+.dd4{
+    background-image: url(./14.png);
+    width: 24%;
+    height: 150px;
+    text-align: center;
+    color: black;
+    padding-left: 3px;
+    padding-right: 3px;
+
+}
+.dd4 h2 {
+    font-size: 10px;
+    padding-top: 5px;
+    
+}
+.dd4 p { font-size: 10px;
+padding-top: 10px;
+}
+.botxt{
+    color:white;
+font-size: 10px;
+text-align: center;
+}
+.surato1{
+    width: 100%;
+    display: flex;
+    gap: 10px;
+    color: white;
+    height: 440px;
+}
+.a1{
+    width: 24%;
+    height: 200px;
+}
+.a1 img {
+    width: 100%;
+    height: 250px;
+}
+
+.a2{
+    width: 24%;
+    height: 200px;
+
+}
+.a3{
+    width: 24%;
+    height: 200px;
+}
+.a4{
+    width: 24%;
+    height: 200px;
+}
+.a1 {
+    width: 100%;
+}
+.a2 {
+    width: 100%;
+}.a3 {
+    width: 100%;
+}.a4 {
+    width: 100%;
+}
+.a2 img {
+    width: 100%;
+    height: 250px;
+}
+.a3 img {
+    width: 100%;
+    height: 250px;
+    
+}
+.a4 img {
+    width: 100%;
+    height: 250px;
+}
+.ttt1{
+    width: 70%;
+    
+
+
+    
+    font-size: smaller; 
+    
+}
+.ttt1 h5 {
+    font-size: 10px;
+}
+.ttt1 h1 {
+    font-size: 15px;
+}
+.main{
+    display: flex;
+}
+h4{
+    font-size: 8px;
+}
+.likeicon {
+    display: flex;
+    color: white;
+    align-items: center;
+    width: 30%;
+    margin: auto;
+    
+}
+.likeicon h5 {
+    padding-left: 15px;}
+    .likep {
+        width: 50%;
+        margin: auto;
+color: white;
+height: 300px;
+font-size: smaller;
+    }
+.likep p {
+    font-size: 13px;
+}
+.contus{
+ background-image: url(./Rectangle\ 868.png);
+ text-align: center;
+}
+.asos{
+    display: flex;
+    width: 23%;
+    margin: auto;
+    align-items: baseline;
+    height: 70px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.asos1{
+    padding-left: 5px;
+    padding-right: 5px;
+    margin-bottom:5px;
+    margin-top: 10px;
+    align-items: center;
+height: 31px;
+opacity: 50%;
+
+}
+.asos2{
+    padding-right: 30px;
+    padding-left: 30px;
+    background-color: black;
+    color: white;
+    align-items: center;
+    padding-top: 10px;
+    padding-bottom: 5px;
+}
+.contus h5 {
+    padding-top: 40px;
+
+
+}
+.dr{
+    display: flex;
+    width: 15%;
+    margin: auto;
+}
+.txtsvg {
+    height: 60px;
+    position: absolute;
+    left: ;
+   
+    
+    color: white;
+}
+.txtsvg h1 {
+    margin: 0;
+    font-size: 26px;
+}
+.txtsvg h6 {
+    margin: 0;
+}
+.ppmain {
+    width: 100%;
+    height: 200px;
+    display: flex
+    
+}
+.pl1 h6 , h5 {
+    margin: 0;
+    padding: 0;
+    padding-bottom: 7px;
+    color: white;
+    
+}
+.pl1 {
+    width: 20%;
+}
+.cr {
+    color: white;
+    padding-bottom: 20px;
+}
