@@ -1,0 +1,102 @@
+.div1{
+        background-color: #272727;
+       
+}
+.k{
+    font-size: 25px;
+    width: 290px;
+    color: white;
+}
+.c {
+    font-size: 20px;
+    color: white;
+}
+.a{
+    color: gray;
+    font-size: 20px;
+}
+.g{
+    border: 1px solid yellow;
+    width: 350px;
+}
+.div2{
+    display: grid;
+    grid-template-columns: 35% 35% 40%;
+    gap: 30px;
+    padding: 40px 147px;
+}
+.raqamho{
+    width: 20%;
+    margin-top: 10px;
+    margin-left: 45%;
+}
+ul{
+   list-style: none;
+   display: flex;
+
+}
+.div3{
+    display: flex;
+    align-items: center;
+    padding-left: 25px;
+    padding-top: 15px;
+}
+.li{
+    display: flex;
+    color: white;
+    gap: 34px;
+}
+.ul li{
+    color: yellow;
+}
+.ul{
+    display: flex;
+    gap: 30px;
+}
+.knopka{
+    font-size: 14px;
+    width: 115px;
+    color: black;
+    padding: 10px;
+    background-color: #FCD54C;
+    margin-left: 30%;
+}
+.z1{
+    color: #FCD54C;
+    width: 17px;
+    font-weight: 600;
+    font-size: 14px;
+    padding: 15px;
+}
+.z2{
+    color: #929292;
+    width: 18px;
+    font-weight: 600;
+    font-size: 14px;
+    padding: 15px;
+}
+.number{
+    color: white;
+}
+.Blog{
+    color: white;
+    padding: 60px;
+}
+.search{
+    color: #929292;
+    border: 1px solid #929292;
+    padding: 10px;
+}
+.search svg{
+    color: #929292;
+    padding: 10px;
+}
+.tamom{
+    display: flex;
+}
+.search{
+    display: flex;
+    margin: 70%;
+    padding-right: 33%;
+    margin-left: 44%;
+}
